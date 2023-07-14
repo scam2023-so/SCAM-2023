@@ -6,7 +6,7 @@ https://github.com/MDEGroup/PostFinder.
 
 
 
-In addition, our Stack Overflow dataset has been uploaded to the following link. This dataset comprises Stack Overflow posts labeled as Java; however, some of them are also tagged with other programming languages. We have preprocessed the Stack Overflow posts by filtering posts that have Java labels, which reduced the number of posts from over 57 million to around 600K. This dataset could be helpful for researchers. 
+In addition, our Stack Overflow dataset has been uploaded to the following link. This dataset comprises Stack Overflow posts labeled as Java; however, some of them are also tagged with other programming languages. We have preprocessed the Stack Overflow posts by filtering posts that have Java labels, which reduced the number of posts from over 57 million to around 600K. 
 
 <!--- This dataset could be helpful for researchers. --->
 
